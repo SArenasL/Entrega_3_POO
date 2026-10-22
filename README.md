@@ -1,6 +1,6 @@
 <div align="center">
 
-#  ENTREGA ACTIVIDAD #2
+#  ENTREGA ACTIVIDAD #3
 
 <br>
 
@@ -46,7 +46,7 @@
 
 <br>
 
-> Repositorio destinado al desarrollo de los ejercicios 8.2 y 8.3 (Interfaces) 
+> Repositorio destinado al desarrollo de los ejercicios 8.2 y 8.3 (incluida la parte propuesta) 
 > del libro Ejercicios de programación orientada a objetos
 > con Java y UML de Leonardo Bermón Angarita
 
